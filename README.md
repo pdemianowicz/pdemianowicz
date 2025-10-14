@@ -1,4 +1,3 @@
-<div align="center">
 
     My Commit Messages:
     
@@ -14,4 +13,3 @@
     │                         about this)      │
     └──────────────────────────────────────────┘
 
-</div>
