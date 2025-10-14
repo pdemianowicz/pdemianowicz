@@ -1,14 +1,11 @@
 <div align="center">
 
-# Hello, world!
-
 ### Full Stack Developer\*
 
 _\*I write code that *sometimes* works._
 
 </div>
 
-#
 
 ```bash
 const dev = {
