@@ -6,17 +6,19 @@ _\*I write code that *sometimes* works._
 
 </div>
 
+<p align="center">
+  <samp>
+    <a href="https://pdemianowicz.com">website</a> ·
+    <a href="https://pdemianowicz.com/blog">blog</a> ·
+    <a href="https://superprawko.pl">superprawko</a> ·
+    <a href="https://linkedin.com/in/pdemianowicz">linkedin</a> ·
+    <a href="mailto:kontakt@pdemianowicz.com">email</a>
+  </samp>
+</p>
 
-```bash
+```javascript
 const dev = {
-  name: "Pawel",
-  role: "Full Stack Developer",
-  languages: ["pl-PL", "en-US", "Sarcasm"],
-  stack: ["React", "Vue", "TypeScript", "JavaScript", "PHP (a bit)"],
-  askMeAbout: ["web dev", "tech", "why my code works"],
+  stack: ["Vue", "React", "Next.js", "TypeScript"],
+  status: ["Learning React Native"],
 };
-
-// TODO: emit something amazing
-// FIXME: CSS still hard
-
 ```
